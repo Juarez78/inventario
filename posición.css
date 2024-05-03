@@ -1,0 +1,117 @@
+.Biblioteca {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+.aula-1 {
+    position: relative;
+    left: 110px;
+    bottom: 129px;
+}
+.aula-2 {
+    position: relative;
+    left: 227px;
+    bottom: 258px;
+}
+.bodega-1 {
+    position: relative;
+    left: 345px;
+    bottom: 387px;
+}
+.aula-3 {
+    position: relative;
+    left: 414px;
+    bottom: 516px;
+}
+.aula-4 {
+    position: relative;
+    left: 532px;
+    bottom: 645px;
+}
+.bodega-2 {
+    position: relative;
+    left: 649px;
+    bottom: 774px;
+}
+.aula-5 {
+    position: relative;
+    left: 716px;
+    bottom: 903px;
+}
+.aula-6 {
+    position: relative;
+    left: 1074px;
+    bottom: 733px;
+}
+.aula-7 {
+    position: relative;
+    left: 850px;
+    bottom: 862px;
+}
+.computación {
+    position: relative;
+    left: 750px;
+    bottom: 1036px;
+}
+.aula-8 {
+    position: relative;
+    left: 560px;
+    bottom: 1165px;
+}
+.Secretaria {
+    position: relative;
+    left: 458px;
+    bottom: 1294px;
+}
+.dirección {
+    position: relative;
+    left: 458px;
+    bottom: 1296px;
+}
+.bodega-3 {
+    position: relative;
+    left: 396px;
+    bottom: 1426px;
+}
+.area {
+    position: relative;
+    left: 0px;
+    bottom: 1754px;
+}
+.parqueo {
+    position: relative;
+    left: 75px;
+    bottom: 1730px;
+}
+.porton {
+    position: relative;
+    left: 0px;
+    bottom: 1827px;
+}
+.cafetin-1 {
+    position: relative;
+    left: 992px;
+    bottom: 2280px;
+}
+.cafetin-2 {
+    position: relative;
+    left: 1096px;
+    bottom: 2390px;
+}
+.Escenario{
+    position: relative;
+    left: 970px;
+    bottom: 2180px;
+}
+.Gradas{
+    position: relative;
+    left: 860px;
+    bottom: 2630px;
+}
+.imagen {
+    position: relative;
+    left: 875px;
+    bottom: 2610px;
+}
